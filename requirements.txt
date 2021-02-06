@@ -1,0 +1,4 @@
+mysql-connector
+notebook
+runipy
+pandas==1.19.3
